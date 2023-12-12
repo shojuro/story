@@ -1,0 +1,4 @@
+Switching Branches
+To work on another branch (or line of development) in a Git project, you have to switch onto
+that branch. Another way of saying this in Git terminology is that you have to “check out”
+another branch.
